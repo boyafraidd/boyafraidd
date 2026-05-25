@@ -1,3 +1,1 @@
-<div style="text-align: justify; text-justify: inter-word;">
-｡ ◞ ◟）⠀WIP　
-</div>
+<p align="right">｡ ◞ ◟）⠀WIP　</p>
