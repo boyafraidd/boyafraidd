@@ -1,1 +1,1 @@
-<p align="right">｡ ◞ ◟）⠀WIP　</p>
+<p align="center">｡ ◞ ◟）⠀WIP　</p>
